@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://yhsn.github.io
+title: yhsn
+tagline: yhsn.log
+description: l0g
+paginate: 5
